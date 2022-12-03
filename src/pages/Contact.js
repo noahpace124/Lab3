@@ -15,6 +15,7 @@ const Contact = () => {
                 <p>Email: krustykrab@gmail.com</p>
                 <p>Address: 1234 Krusty Krab Rd, Bikini Bottom, US 84552</p>
             </div>
+            https://github.com/noahpace124/Lab3
         </div>
     );
 }
